@@ -1,8 +1,2 @@
-set solib-search-path /home/dhuggins/workspace/PocketSphinxDemo/bin/ndk/local/armeabi
-directory /home/dhuggins/Projects/Android/android-ndk-r4/build/platforms/android-5/arch-arm/usr/include
-directory /home/dhuggins/workspace/PocketSphinxDemo/jni
-directory /home/dhuggins/workspace/PocketSphinxDemo/jni
-directory /home/dhuggins/workspace/PocketSphinxDemo/jni
-directory /home/dhuggins/workspace/PocketSphinxDemo/jni
-directory /home/dhuggins/workspace/PocketSphinxDemo/jni
-directory /home/dhuggins/workspace/PocketSphinxDemo/jni
+set solib-search-path /Users/mainulhasan/Documents/git_repo/PocketSphinxAndroidDemo/obj/local/armeabi
+directory /Users/mainulhasan/Desktop/android_ndk/platforms/android-8/arch-arm/usr/include /Users/mainulhasan/Projects/Sphinx/trunk/sphinxbase/include/android /Users/mainulhasan/Projects/Sphinx/trunk/pocketsphinx/include /Users/mainulhasan/Projects/Sphinx/trunk/pocketsphinx/src/libpocketsphinx /Users/mainulhasan/Documents/git_repo/PocketSphinxAndroidDemo/jni /Users/mainulhasan/Projects/Sphinx/trunk/sphinxbase/src/libsphinxbase/fe /Users/mainulhasan/Projects/Sphinx/trunk/sphinxbase/src/libsphinxbase/feat /Users/mainulhasan/Projects/Sphinx/trunk/sphinxbase/src/libsphinxbase/lm /Users/mainulhasan/Projects/Sphinx/trunk/sphinxbase/src/libsphinxbase/util /Users/mainulhasan/Desktop/android_ndk/sources/cxx-stl/system
